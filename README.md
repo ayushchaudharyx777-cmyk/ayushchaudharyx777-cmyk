@@ -93,4 +93,4 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg"
 </p>
-<!-- June 26 contribution — consistency is the key to success -->
+<!-- June 26 contribution — never miss a day -->
