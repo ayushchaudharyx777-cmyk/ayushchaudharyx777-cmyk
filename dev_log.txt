@@ -12,3 +12,4 @@
 [2026-07-16T18:22:00] chore: remove unused imports
 [2026-07-16T20:11:00] docs: update README section
 [2026-07-16T22:45:00] refactor: simplify conditional logic
+[2026-06-14T09:15:00] docs: update project documentation
