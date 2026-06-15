@@ -20,3 +20,4 @@
 [2026-06-15T08:40:00] feat: add input sanitization helper
 [2026-06-15T10:15:00] fix: handle empty string edge case
 [2026-06-15T11:58:00] chore: remove debug print statements
+[2026-06-15T13:44:00] docs: add usage examples to README
