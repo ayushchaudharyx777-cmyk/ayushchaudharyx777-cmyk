@@ -28,3 +28,4 @@
 [2026-06-16T10:22:00] fix: off-by-one error in loop logic
 [2026-06-16T11:45:00] chore: update dependencies list
 [2026-06-16T12:58:00] docs: improve inline code comments
+[2026-06-16T14:10:00] refactor: extract repeated logic to helper
