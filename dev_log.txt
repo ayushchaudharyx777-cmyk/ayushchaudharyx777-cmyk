@@ -31,3 +31,4 @@
 [2026-06-16T14:10:00] refactor: extract repeated logic to helper
 [2026-06-16T15:33:00] fix: handle exception in file reader
 [2026-06-16T17:20:00] style: apply consistent formatting
+[2026-06-16T19:48:00] feat: add debug mode toggle flag
