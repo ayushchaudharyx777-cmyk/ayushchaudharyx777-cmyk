@@ -33,3 +33,4 @@
 [2026-06-16T17:20:00] style: apply consistent formatting
 [2026-06-16T19:48:00] feat: add debug mode toggle flag
 [2026-06-16T22:05:00] chore: minor cleanup in config files
+[2026-06-17T08:30:00] feat: add error logging module
