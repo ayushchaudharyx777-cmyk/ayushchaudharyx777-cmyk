@@ -47,3 +47,4 @@
 [2026-06-18T09:10:00] feat: implement caching mechanism
 [2026-06-18T10:30:00] fix: resolve import path conflicts
 [2026-06-18T11:55:00] chore: reorganize folder structure
+[2026-06-18T13:20:00] docs: document API endpoints
