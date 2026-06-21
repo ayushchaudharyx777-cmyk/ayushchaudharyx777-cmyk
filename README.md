@@ -86,3 +86,9 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ---
 
 <p align="center"><i>"Every expert was once a beginner." Currently writing chapter one. 🚀</i></p>
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
