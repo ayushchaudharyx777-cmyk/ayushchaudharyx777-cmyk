@@ -2,7 +2,7 @@
 <h3 align="center">CSE (AI & ML) student | Building toward a career at top global tech companies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EAADC&center=true&vCenter=true&width=600&lines=Learning+DSA+and+Python+from+scratch;Building+JARVIS+%E2%80%94+a+personal+AI+assistant;Aspiring+AI+ML+Engineer+%7C+Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EAADC&center=true&vCenter=true&width=600&lines=Learning+DSA+and+Python+from+scratch;Building+JARVIS+%E2%80%94+a+personal+AI+assistant;Aspiring+ML+Engineer+%7C+Open+to+opportunities" alt="Typing SVG" />
 </p>
 
 ---
