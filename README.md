@@ -9,7 +9,7 @@
 
 ### 🎓 About Me
 
-- 🏫 First-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**
+- 🏫 Second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**
 - 🎯 Long-term goal: land a role at a top international tech company (FAANG, OpenAI, Anthropic, Nvidia, SpaceX, etc.)
 - 🌍 Open to working outside India
 - 🛠️ Currently leveling up: Data Structures & Algorithms, Python, and core ML fundamentals
