@@ -19,7 +19,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [J.A.R.V.I.S — Personal AI Assistant](https://github.com/ayushchaudharyx777-cmyk/jarvis)
+#### 🤖 [J.A.R.V.I.S — Personal AI Assistant](https://github.com/your-username/jarvis)
 A Python-based personal AI dashboard inspired by Tony Stark's assistant — built from the ground up as a long-term learning project.
 - 🖥️ Custom GUI built with **CustomTkinter**, including animated startup sequence
 - 🧩 Local LLM powered by **Ollama (llama3.2)** for offline AI responses
@@ -70,7 +70,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&hide=java" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ---
 
 <p align="center"><i>"Every expert was once a beginner." Currently writing chapter one. 🚀</i></p>
-
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg"
 </p>
+<!-- June 28 contribution -->
