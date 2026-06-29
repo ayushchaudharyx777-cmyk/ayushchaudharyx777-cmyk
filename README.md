@@ -65,12 +65,12 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+ <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+ <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-gruvboxs-projects.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java" alt="Top Languages"/>
 </p>
 
 ---
