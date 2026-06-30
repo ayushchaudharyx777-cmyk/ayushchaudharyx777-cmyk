@@ -81,10 +81,10 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
