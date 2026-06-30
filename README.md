@@ -84,7 +84,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.azurewebsites.net/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
