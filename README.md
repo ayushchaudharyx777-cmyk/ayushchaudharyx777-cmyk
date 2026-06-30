@@ -2,7 +2,8 @@
 <h3 align="center">CSE (AI & ML) student | Building toward a career at top global tech companies</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushchaudharyx777-cmyk&color=2EAADC&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushchaudharyx777-cmyk&color=2EAADC&style=for-the-badge" alt="Profile views"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Internships-2EAADC?style=for-the-badge"/>
 </p>
 
@@ -83,7 +84,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
