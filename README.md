@@ -2,6 +2,11 @@
 <h3 align="center">CSE (AI & ML) student | Building toward a career at top global tech companies</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushchaudharyx777-cmyk&color=2EAADC&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2EAADC?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EAADC&center=true&vCenter=true&width=600&lines=Learning+DSA+and+Python+from+scratch;Building+JARVIS+%E2%80%94+a+personal+AI+assistant;Aspiring+ML+Engineer+%7C+Open+to+opportunities" alt="Typing SVG" />
 </p>
 
@@ -75,6 +80,14 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 <p>
@@ -88,6 +101,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 ---
 
 <p align="center"><i>"Every expert was once a beginner." Currently writing chapter one. 🚀</i></p>
+
 ---
 
 ## 🐍 Contribution Snake
