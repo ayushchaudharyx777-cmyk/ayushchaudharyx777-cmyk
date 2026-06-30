@@ -70,7 +70,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-ayush.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&hide=java&count_private=true" alt="Top Languages"/>
+ <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&hide=java&count_private=true" alt="Top Languages"/>
 </p>
 
 ---
