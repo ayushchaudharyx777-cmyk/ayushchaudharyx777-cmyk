@@ -17,10 +17,22 @@
 ### 🎓 About Me
 
 - 🏫 Second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**
-- 🎯 Long-term goal: land a role at a top international tech company (FAANG, OpenAI, Anthropic, Nvidia, SpaceX, etc.)
-- 🌍 Open to working outside India
-- 🛠️ Currently leveling up: Data Structures & Algorithms, Python, and core ML fundamentals
-- 🧠 Building everything in public as I learn — projects, mistakes, and progress included
+- 🎯 Long-term goal: Land a role at a top international tech company (FAANG, OpenAI, Anthropic, Nvidia, SpaceX).
+- 🌍 Open to working remotely or relocating globally.
+- 🧠 Building everything in public as I learn — projects, mistakes, and progress included.
+
+---
+
+### 🎯 Current Focus & Roadmap
+<details>
+  <summary><b>Click to see what I'm actively working on 🚀</b></summary>
+  <br>
+  <ul>
+    <li><b>Problem Solving:</b> Grinding Data Structures & Algorithms (DSA) to build a strong foundation for technical interviews.</li>
+    <li><b>Backend & AI:</b> Deepening my knowledge in Python and core Machine Learning mathematics.</li>
+    <li><b>System Architecture:</b> Learning how large-scale applications and LLM wrappers are built and deployed.</li>
+  </ul>
+</details>
 
 ---
 
@@ -28,13 +40,20 @@
 
 #### 🤖 [J.A.R.V.I.S — Personal AI Assistant](https://github.com/your-username/jarvis)
 A Python-based personal AI dashboard inspired by Tony Stark's assistant — built from the ground up as a long-term learning project.
-- 🖥️ Custom GUI built with **CustomTkinter**, including animated startup sequence
-- 🧩 Local LLM powered by **Ollama (llama3.2)** for offline AI responses
-- 🗣️ Voice interaction via **speech recognition** + **pyttsx3 / ElevenLabs** text-to-speech
-- 🎵 Optional integrations: **Spotify**, **OpenCV** (webcam), **Flask** (LAN server), **librosa** (voice emotion analysis)
-- ⚙️ Built-in productivity tools: Pomodoro timer, clipboard manager, code execution engine, habit tracker, unit converter, QR/password generator, network tools, screenshot OCR, process killer, weather alerts, CPU/RAM monitor with live sparklines, hotkey overlay, and switchable AI personalities
 
-> More projects coming soon as I build out my GitHub portfolio 🌱
+<details>
+  <summary><b>🛠️ View Technical Features & Integrations</b></summary>
+  <br>
+  <ul>
+    <li>🖥️ Custom GUI built with <b>CustomTkinter</b>, including an animated startup sequence.</li>
+    <li>🧩 Local LLM powered by <b>Ollama (llama3.2)</b> for secure, offline AI responses.</li>
+    <li>🗣️ Voice interaction via <b>speech recognition</b> + <b>pyttsx3 / ElevenLabs</b> text-to-speech.</li>
+    <li>🎵 Optional integrations: <b>Spotify</b>, <b>OpenCV</b> (webcam), <b>Flask</b> (LAN server), <b>librosa</b> (voice emotion analysis).</li>
+    <li>⚙️ Built-in productivity tools: Pomodoro timer, clipboard manager, code execution engine, habit tracker, unit converter, QR/password generator, network tools, screenshot OCR, process killer, weather alerts, CPU/RAM monitor with live sparklines, and hotkey overlay.</li>
+  </ul>
+</details>
+
+> *More projects coming soon as I build out my GitHub portfolio 🌱*
 
 ---
 
@@ -61,37 +80,24 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-**Currently Learning**
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2EAADC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
- <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF4500&ring=FF8C00&currStreakNum=FF4500" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF4500&ring=FF8C00&currStreakNum=FF4500" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
 </p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&bg_color=000000&color=ffffff&line=2EAADC&point=ffffff&hide_border=true" alt="Activity Graph"/>
 
 ---
 
 ### 📫 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushchaudharyx777@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -107,6 +113,5 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg"
+  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-<!-- June 28 contribution -->
