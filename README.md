@@ -30,7 +30,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 🅼 Meta | 🅰 Anthropic | 🅽 Nvidia | 🅶 Google | 🅾 OpenAI | 🆂 SpaceX |
 
-- 🇬🇧 Open to opportunities in the **UK** as well as remote roles worldwide.
+- 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
 - 🧠 Documenting the whole journey in public — code, projects, mistakes, and progress included.
 
