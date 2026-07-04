@@ -16,11 +16,11 @@
 
 ### 🎓 About Me
 
-Hey, I'm Ayush 👋 — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**. I'm not the kind of person who just wants a degree on paper — I want to actually *build* things, break them, fix them, and understand how they work under the hood. Right now that means grinding DSA every day, learning Python and the math behind Machine Learning, and shipping small projects instead of waiting until I "know enough" to start.
-
-My biggest personal project so far is **JARVIS**, a personal AI assistant I'm building completely from scratch — GUI, voice, local LLMs, productivity tools, all of it — because reading about AI only gets you so far; building it teaches you the rest.
-
-I'm not chasing a random job — I'm chasing a specific list of companies, and yeah, it spells something 👇
+- 👋 Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, currently building my foundations in computer science, AI, and machine learning.
+- 🔨 I'm not here for just a degree on paper — I care about actually *building* things, breaking them, fixing them, and understanding how they work under the hood instead of memorizing theory.
+- 📚 Right now that means grinding **Data Structures & Algorithms** daily to prepare for technical interviews, learning **Python**, and studying the math that powers **Machine Learning** models.
+- 🤖 My biggest personal project so far is **JARVIS**, a personal AI assistant I'm building completely from scratch — custom GUI, voice interaction, local LLMs, and a full suite of productivity tools — because reading about AI only gets you so far; building it teaches you the rest.
+- 🎯 I'm not chasing just any job — I'm working toward a specific list of dream companies, and yeah, the list spells something 👇
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FF0080,FF8C00,FFEE00,00FF7F,00C8FF,8E2DE2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED%3A+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal Typing SVG"/>
@@ -33,6 +33,7 @@ I'm not chasing a random job — I'm chasing a specific list of companies, and y
 - 🇬🇧 Open to opportunities in the **UK** as well as remote roles worldwide.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
 - 🧠 Documenting the whole journey in public — code, projects, mistakes, and progress included.
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
@@ -76,6 +77,10 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 
 > *More projects coming soon as I build out my GitHub portfolio 🌱*
 
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ayushchaudharyx777-cmyk&repo=jarvis&theme=tokyonight&hide_border=true" alt="JARVIS Repo Card"/>
+</p>
+
 ---
 
 ### 🧰 Tech Stack
@@ -115,7 +120,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&bg_color=000000&color=FF0080&line=FF8C00&point=00C8FF&area=true&area_color=8E2DE2&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&bg_color=000000&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&area_color=8E2DE2&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
