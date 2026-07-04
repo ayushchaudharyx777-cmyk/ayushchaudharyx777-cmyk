@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=hue" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:E93E7B,100:FF7A18&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" alt="Animated Header" />
 </p>
 
 <p align="center">
@@ -18,23 +18,31 @@
 
 Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, learning to build real, working software instead of just studying theory.
 
-- 🎯 **Dream companies:** Mangos, Meta, Anthropic — aiming to work my way toward roles at these over the next few years.
+- 🥭 **The MANGOS Goal:** my target companies spell it out —
+
+  | M | A | N | G | O | S |
+  |---|---|---|---|---|---|
+  | Meta | Anthropic | Nvidia | Google | OpenAI | SpaceX |
+
 - 🇬🇧 Open to opportunities in the **UK** as well as remote roles worldwide.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
 - 🧠 Documenting the whole journey in public — code, projects, mistakes, and progress included.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Mangos-FF3B30?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3B30&center=true&vCenter=true&width=550&lines=Target%3A+Mangos+%7C+Meta+%7C+Anthropic;Open+to+UK+%26+remote+roles+worldwide" alt="Goal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF7A18&center=true&vCenter=true&width=600&lines=M+-+Meta;A+-+Anthropic;N+-+Nvidia;G+-+Google;O+-+OpenAI;S+-+SpaceX;Target%3A+MANGOS+%F0%9F%A5%AD" alt="MANGOS Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:E93E7B,100:FF7A18&height=3&section=header" width="100%"/>
 </p>
 
 ---
@@ -102,6 +110,10 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
