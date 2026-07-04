@@ -28,7 +28,7 @@
 
 | M | A | N | G | O | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 🅼 Meta | 🅰 Anthropic | 🅽 Nvidia | 🅶 Google | 🅾 OpenAI | 🆂 SpaceX |
+| ![Meta](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white) | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) | ![Nvidia](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white) |
 
 - 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
