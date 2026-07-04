@@ -83,22 +83,22 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 
 **Tools & Frameworks**
 <p>
-<img src="https://img.shields.io/badge/CustomTkinter-6C5CE7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-2D3436?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-00B894?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-341F97?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-0984E3?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-E17055?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-D63031?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FD79A8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FDCB6E?style=for-the-badge&logo=jupyter&logoColor=333333"/>
-<img src="https://img.shields.io/badge/MySQL-00CEC9?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FAB1A0?style=for-the-badge&logo=linux&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Git-E84393?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-636E72?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-55EFC4?style=for-the-badge&logo=netlify&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Postman-FF7F50?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-74B9FF?style=for-the-badge&logo=visualstudiocode&logoColor=333333"/>
+<img src="https://img.shields.io/badge/CustomTkinter-306998?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 **Skill Progress**
