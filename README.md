@@ -27,25 +27,20 @@
 </p>
 
 <p align="center">
-🅼 <b>Meta</b> &nbsp;•&nbsp; 🅰 <b>Anthropic</b> &nbsp;•&nbsp; 🅽 <b>Nvidia</b> &nbsp;•&nbsp; 🅶 <b>Google</b> &nbsp;•&nbsp; 🅾 <b>OpenAI</b> &nbsp;•&nbsp; 🆂 <b>SpaceX</b>
+<img src="https://img.shields.io/badge/M-Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/A-Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/N-Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/G-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/O-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/S-SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white"/>
 </p>
 
 - 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
 - 🧠 Documenting the whole journey in public — code, projects, mistakes, and progress included.
 
-
 <p align="center">
-<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=4&section=header" width="100%"/>
 </p>
 
 ---
@@ -102,6 +97,22 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+**Skill Progress**
+
+`Python`&nbsp;&nbsp;![](https://progress-bar.xyz/75/?width=200&color=2EAADC)
+
+`DSA / Problem Solving`&nbsp;&nbsp;![](https://progress-bar.xyz/60/?width=200&color=FF8C00)
+
+`Machine Learning`&nbsp;&nbsp;![](https://progress-bar.xyz/45/?width=200&color=39D353)
+
+`C++`&nbsp;&nbsp;![](https://progress-bar.xyz/55/?width=200&color=00599C)
+
+`Git & GitHub`&nbsp;&nbsp;![](https://progress-bar.xyz/65/?width=200&color=F05032)
+
+`Web Basics (HTML/CSS/JS)`&nbsp;&nbsp;![](https://progress-bar.xyz/50/?width=200&color=8E2DE2)
+
+<sub>*Self-assessed and updated as I keep learning — not a certification, just an honest snapshot 🙂*</sub>
 
 ---
 
