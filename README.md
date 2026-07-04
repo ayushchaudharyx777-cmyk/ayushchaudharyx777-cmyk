@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:E93E7B,100:FF7A18&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=twinkling" alt="Animated Header" />
 </p>
 
 <p align="center">
@@ -16,13 +16,19 @@
 
 ### 🎓 About Me
 
-Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, learning to build real, working software instead of just studying theory.
+Hey, I'm Ayush 👋 — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**. I'm not the kind of person who just wants a degree on paper — I want to actually *build* things, break them, fix them, and understand how they work under the hood. Right now that means grinding DSA every day, learning Python and the math behind Machine Learning, and shipping small projects instead of waiting until I "know enough" to start.
 
-- 🥭 **The MANGOS Goal:** my target companies spell it out —
+My biggest personal project so far is **JARVIS**, a personal AI assistant I'm building completely from scratch — GUI, voice, local LLMs, productivity tools, all of it — because reading about AI only gets you so far; building it teaches you the rest.
 
-  | M | A | N | G | O | S |
-  |---|---|---|---|---|---|
-  | Meta | Anthropic | Nvidia | Google | OpenAI | SpaceX |
+I'm not chasing a random job — I'm chasing a specific list of companies, and yeah, it spells something 👇
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF0080,FF8C00,FFEE00,00FF7F,00C8FF,8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED%3A+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal Typing SVG"/>
+</p>
+
+| M | A | N | G | O | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🅼 Meta | 🅰 Anthropic | 🅽 Nvidia | 🅶 Google | 🅾 OpenAI | 🆂 SpaceX |
 
 - 🇬🇧 Open to opportunities in the **UK** as well as remote roles worldwide.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
@@ -38,11 +44,7 @@ Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Insti
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF7A18&center=true&vCenter=true&width=600&lines=M+-+Meta;A+-+Anthropic;N+-+Nvidia;G+-+Google;O+-+OpenAI;S+-+SpaceX;Target%3A+MANGOS+%F0%9F%A5%AD" alt="MANGOS Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:E93E7B,100:FF7A18&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=4&section=header" width="100%"/>
 </p>
 
 ---
@@ -113,7 +115,11 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
