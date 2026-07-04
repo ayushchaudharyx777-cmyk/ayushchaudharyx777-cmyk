@@ -61,7 +61,8 @@
 ### 🚀 Featured Projects
 
 #### 🤖 [J.A.R.V.I.S — Personal AI Assistant](https://github.com/your-username/jarvis)
-A Python-based personal AI dashboard inspired by Tony Stark's assistant — built from the ground up as a long-term learning project.
+
+A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JARVIS — not a wrapper around an API, but a real desktop system built piece by piece from the ground up. It runs on a **local LLM (Ollama)** so it works offline and keeps everything private, listens and talks back through **speech recognition and text-to-speech**, and wraps it all in a custom animated GUI. Beyond the AI core, it doubles as a full productivity dashboard — Pomodoro timer, clipboard manager, habit tracker, system monitor, and a dozen other tools — making it less of a chatbot and more of a personal command center for daily work.
 
 <details>
   <summary><b>🛠️ View Technical Features & Integrations</b></summary>
@@ -76,10 +77,6 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </details>
 
 > *More projects coming soon as I build out my GitHub portfolio 🌱*
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ayushchaudharyx777-cmyk&repo=jarvis&theme=tokyonight&hide_border=true" alt="JARVIS Repo Card"/>
-</p>
 
 ---
 
