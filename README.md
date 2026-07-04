@@ -26,9 +26,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FF0080,FF8C00,FFEE00,00FF7F,00C8FF,8E2DE2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED%3A+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal Typing SVG"/>
 </p>
 
-| M | A | N | G | O | S |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🅼 Meta | 🅰 Anthropic | 🅽 Nvidia | 🅶 Google | 🅾 OpenAI | 🆂 SpaceX |
+<p align="center">
+🅼 <b>Meta</b> &nbsp;•&nbsp; 🅰 <b>Anthropic</b> &nbsp;•&nbsp; 🅽 <b>Nvidia</b> &nbsp;•&nbsp; 🅶 <b>Google</b> &nbsp;•&nbsp; 🅾 <b>OpenAI</b> &nbsp;•&nbsp; 🆂 <b>SpaceX</b>
+</p>
 
 - 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
