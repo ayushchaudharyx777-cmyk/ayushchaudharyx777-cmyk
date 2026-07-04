@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=twinkling" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" alt="Animated Header" />
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ A Python-based personal AI dashboard inspired by Tony Stark's assistant — buil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaudharyx777-cmyk&theme=onedark" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
