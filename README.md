@@ -16,10 +16,26 @@
 
 ### 🎓 About Me
 
-- 🏫 Second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**
-- 🎯 Long-term goal: Land a role at a top international tech company (Mangos, OpenAI, Anthropic, Nvidia, SpaceX).
-- 🌍 Open to working remotely or relocating globally.
-- 🧠 Building everything in public as I learn — projects, mistakes, and progress included.
+Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, learning to build real, working software instead of just studying theory.
+
+- 🎯 **Dream companies:** Mangos, Meta, Anthropic — aiming to work my way toward roles at these over the next few years.
+- 🇬🇧 Open to opportunities in the **UK** as well as remote roles worldwide.
+- 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
+- 🧠 Documenting the whole journey in public — code, projects, mistakes, and progress included.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Mangos-FF3B30?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3B30&center=true&vCenter=true&width=550&lines=Target%3A+Mangos+%7C+Meta+%7C+Anthropic;Open+to+UK+%26+remote+roles+worldwide" alt="Goal Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
 
 ---
 
