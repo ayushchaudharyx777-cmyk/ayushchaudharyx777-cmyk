@@ -23,16 +23,16 @@
 - 🎯 I'm not chasing just any job — I'm working toward a specific list of dream companies, and yeah, the list spells something 👇
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FF0080,FF8C00,FFEE00,00FF7F,00C8FF,8E2DE2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED%3A+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=110&section=header&text=M%20A%20N%20G%20O%20S&fontSize=45&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" alt="MANGOS Banner"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white"/>
+<img src="https://img.shields.io/badge/M-Meta-FF0080?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/A-Anthropic-FF8C00?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/N-Nvidia-DDBB00?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/G-Google-00B368?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/O-OpenAI-00A0D8?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/S-SpaceX-8E2DE2?style=for-the-badge&logo=spacex&logoColor=white"/>
 </p>
 
 - 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
@@ -88,22 +88,22 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 
 **Tools & Frameworks**
 <p>
-<img src="https://img.shields.io/badge/CustomTkinter-2EAADC?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/CustomTkinter-6C5CE7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-2D3436?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-00B894?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-341F97?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-0984E3?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E17055?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-D63031?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FD79A8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FDCB6E?style=for-the-badge&logo=jupyter&logoColor=333333"/>
+<img src="https://img.shields.io/badge/MySQL-00CEC9?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FAB1A0?style=for-the-badge&logo=linux&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Git-E84393?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-636E72?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-55EFC4?style=for-the-badge&logo=netlify&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Postman-FF7F50?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-74B9FF?style=for-the-badge&logo=visualstudiocode&logoColor=333333"/>
 </p>
 
 **Skill Progress**
