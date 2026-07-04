@@ -23,17 +23,12 @@
 - 🎯 I'm not chasing just any job — I'm working toward a specific list of dream companies, and yeah, the list spells something 👇
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,15:FF8C00,35:FFEE00,55:00FF7F,75:00C8FF,100:8E2DE2&height=110&section=header&text=M%20A%20N%20G%20O%20S&fontSize=45&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" alt="MANGOS Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FF0080,FF8C00,FFEE00,00FF7F,00C8FF,8E2DE2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED%3A+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal Typing SVG"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/M-Meta-FF0080?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/A-Anthropic-FF8C00?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/N-Nvidia-DDBB00?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/G-Google-00B368?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/O-OpenAI-00A0D8?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/S-SpaceX-8E2DE2?style=for-the-badge&logo=spacex&logoColor=white"/>
-</p>
+| M | A | N | G | O | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🅼 Meta | 🅰 Anthropic | 🅽 Nvidia | 🅶 Google | 🅾 OpenAI | 🆂 SpaceX |
 
 - 🌍 Actively looking for **internship opportunities** to turn classroom knowledge into real-world engineering experience.
 - 🛠️ Currently deep in DSA, Python, and Machine Learning fundamentals — building projects like JARVIS along the way to learn by doing.
