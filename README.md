@@ -123,11 +123,11 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF4500&ring=FF8C00&currStreakNum=FF4500" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF4500&ring=FF8C00&currStreakNum=FF4500" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=java&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Programming Joke"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Programming Joke" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
