@@ -1,8 +1,3 @@
-#!/bin/bash
-set -e
-
-# ---------- 1) README.md ----------
-cat > README.md << 'READMEEOF'
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20(AI%20＆%20ML)%20student%20%7C%20Building%20toward%20a%20career%20at%20top%20global%20tech%20companies&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" alt="Animated Header" />
 </p>
@@ -169,40 +164,3 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-READMEEOF
-
-# ---------- 2) Snake workflow ----------
-mkdir -p .github/workflows
-cat > .github/workflows/snake.yml << 'SNAKEEOF'
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ayushchaudharyx777-cmyk
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-SNAKEEOF
