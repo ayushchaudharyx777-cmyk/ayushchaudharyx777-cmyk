@@ -123,7 +123,7 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 
 <p align="center">
   <img src="https://github-readme-stats-omega-bice-89.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=FF6600&dates=FF6600
+  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=FF6600&dates=FF6600" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
