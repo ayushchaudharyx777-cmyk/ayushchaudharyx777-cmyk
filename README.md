@@ -164,3 +164,4 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+Added project notes.
