@@ -3,3 +3,4 @@
 [2026-07-15T17:28:00] fix: improve section spacing
 [2026-07-15T21:05:00] style: minor text corrections
 [2026-07-16T09:05:00] refactor: clean up utility functions
+[2026-07-16T10:22:00] fix: resolve edge case in data loader
