@@ -50,7 +50,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [J.A.R.V.I.S — Personal AI Assistant](https://github.com/your-username/jarvis)
+#### 🤖 J.A.R.V.I.S — Personal AI Assistant
 
 A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JARVIS — not a wrapper around an API, but a real desktop system built piece by piece from the ground up. It runs on a **local LLM (Ollama)** so it works offline and keeps everything private, listens and talks back through **speech recognition and text-to-speech**, and wraps it all in a custom animated GUI. Beyond the AI core, it doubles as a full productivity dashboard — Pomodoro timer, clipboard manager, habit tracker, system monitor, and a dozen other tools — making it less of a chatbot and more of a personal command center for daily work.
 
@@ -123,7 +123,7 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 
 <p align="center">
   <img src="https://github-readme-stats-omega-bice-89.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=6B8FD6&dates=6B8FD6&currStreakLabel=9B59B6" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=6B8FD6&dates=6B8FD6&currStreakLabel=9B59B6&cachebust=2" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayush-chaudhary-890bba294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushchaudharyx777@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -164,4 +164,3 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-Added project notes.
