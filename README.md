@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:7C3AED&height=260&section=header&text=Hey%2C%20I'm%20Ayush%20%F0%9F%91%8B&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20%7C%20Building%20toward%20MANGOS%20%F0%9F%A5%AD&descSize=18&descAlignY=57&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:7C3AED&height=260&section=header&text=Hey%2C%20I%27m%20Ayush%20%F0%9F%91%8B&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20%7C%20Building%20toward%20MANGOS%20%F0%9F%A5%AD&descSize=18&descAlignY=57&descAlign=50&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+JARVIS+%E2%80%94+my+personal+AI+assistant;Grinding+DSA+%26+Python+daily;ML+Engineer+in+the+making;Targeting+MANGOS+%7C+Meta+Anthropic+Nvidia+Google+OpenAI+SpaceX" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://neofetch-profile.vercel.app/api?username=ayushchaudharyx777-cmyk&theme=github-dark" alt="Neofetch Style Stats" />
 </p>
 
 <p align="center">
