@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:7C3AED&height=260&section=header&text=Hey%2C%20I'm%20Ayush%20👋&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20%7C%20Building%20toward%20MANGOS%20🥭&descSize=18&descAlignY=57&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:7C3AED&height=260&section=header&text=Hey%2C%20I'm%20Ayush%20%F0%9F%91%8B&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20%7C%20Building%20toward%20MANGOS%20%F0%9F%A5%AD&descSize=18&descAlignY=57&descAlign=50&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+JARVIS+—+my+personal+AI+assistant;Grinding+DSA+%26+Python+daily;ML+Engineer+in+the+making;Targeting+MANGOS+%7C+Meta+Anthropic+Nvidia+Google+OpenAI+SpaceX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+JARVIS+%E2%80%94+my+personal+AI+assistant;Grinding+DSA+%26+Python+daily;ML+Engineer+in+the+making;Targeting+MANGOS+%7C+Meta+Anthropic+Nvidia+Google+OpenAI+SpaceX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 - 🎯 Not chasing just any job. I have a specific list of dream companies, and yeah, the list spells something 👇
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=8B5CF6,06B6D4,7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED+🥭+MANGOS" alt="MANGOS Terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=8B5CF6,06B6D4,7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+loading+dream_companies.exe...;%3E+decrypting+acronym...;%3E+M+-+Meta;%3E+A+-+Anthropic;%3E+N+-+Nvidia;%3E+G+-+Google;%3E+O+-+OpenAI;%3E+S+-+SpaceX;%3E+TARGET+LOCKED+%F0%9F%A5%AD+MANGOS" alt="MANGOS Terminal"/>
 </p>
 
 | M | A | N | G | O | S |
@@ -140,24 +140,16 @@ A single-file HTML/CSS/JS F1 racing simulator featuring 10 F1 teams with 2025/20
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-omega-bice-89.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6&text_color=06B6D4" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushchaudharyx777-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6&text_color=06B6D4" alt="GitHub Stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=ayushchaudharyx777-cmyk&theme=tokyonight&hide_border=true&fire=8B5CF6&ring=8B5CF6&currStreakNum=8B5CF6&sideLabels=06B6D4&dates=06B6D4&currStreakLabel=7C3AED&cachebust=3" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-omega-bice-89.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&title_color=8B5CF6&text_color=06B6D4" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudharyx777-cmyk&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&title_color=8B5CF6&text_color=06B6D4" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=8B5CF6&area=true&area_color=7C3AED&hide_border=true&custom_title=Ayush%20Chaudhary%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%238B5CF6&aColor=%2306B6D4&borderColor=%237C3AED" alt="Dev Joke" onerror="this.style.display='none'"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 <p align="center">
@@ -176,14 +168,6 @@ A single-file HTML/CSS/JS F1 racing simulator featuring 10 F1 teams with 2025/20
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushchaudharyx777@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/your-handle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-8B5CF6?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -192,14 +176,6 @@ A single-file HTML/CSS/JS F1 racing simulator featuring 10 F1 teams with 2025/20
   <i>"Every expert was once a beginner." Currently writing chapter one. 🚀</i>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:8B5CF6,100:06B6D4&height=120&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:8B5CF6,100:06B6D4&height=120&section=footer" alt="Footer"/>
 </p>
