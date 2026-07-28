@@ -17,7 +17,11 @@
 ### 🎓 About Me
 
 <p align="center">
-  <img src="assets/ayush_editor_card.png" alt="Ayush editor card" width="700"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/main/light.svg">
+    <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/main/dark.svg" alt="Ayush animated hero banner" width="900"/>
+  </picture>
 </p>
 
 - 👋 Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, currently building my foundations in computer science, AI, and machine learning.
