@@ -16,6 +16,10 @@
 
 ### 🎓 About Me
 
+<p align="center">
+  <img src="assets/ayush_editor_card.png" alt="Ayush editor card" width="700"/>
+</p>
+
 - 👋 Hey, I'm Ayush — a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur (KTR)**, currently building my foundations in computer science, AI, and machine learning.
 - 🔨 I'm not here for just a degree on paper — I care about actually *building* things, breaking them, fixing them, and understanding how they work under the hood instead of memorizing theory.
 - 📚 Right now that means grinding **Data Structures & Algorithms** daily to prepare for technical interviews, learning **Python**, and studying the math that powers **Machine Learning** models.
@@ -163,3 +167,4 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushchaudharyx777-cmyk/ayushchaudharyx777-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>

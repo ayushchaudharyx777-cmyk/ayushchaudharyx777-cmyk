@@ -1,0 +1,357 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'SF Pro Display', Helvetica, Arial, sans-serif">
+<defs>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <linearGradient id="asciiGrad" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="100" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+      <animate attributeName="x1" values="-300;900;-300" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100;1300;100" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="shimmerGrad" gradientUnits="objectBoundingBox" x1="-1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;2" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;3" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="15%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="90%" cy="85%" r="60%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="70%" cy="15%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="pillGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="noiseFilter">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.025 0"/>
+    </filter>
+
+    <clipPath id="canvasClip">
+      <rect x="0" y="0" width="1180" height="610" rx="24"/>
+    </clipPath>
+    <clipPath id="leftPanelClip">
+      <rect x="40" y="40" width="430" height="530" rx="18"/>
+    </clipPath>
+    
+
+    <clipPath id="typeClip0">
+      <rect x="0" y="0" width="0" height="34">
+        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.0000;0.0750;0.3208;0.3333;1.0000" dur="12.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typeClip1">
+      <rect x="0" y="0" width="0" height="34">
+        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.3333;0.4083;0.6542;0.6667;1.0000" dur="12.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typeClip2">
+      <rect x="0" y="0" width="0" height="34">
+        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.6667;0.7417;0.9875;1.0000;1.0000" dur="12.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+</defs>
+<g clip-path="url(#canvasClip)">
+<rect x="0" y="0" width="1180" height="610" fill="#FFFFFF"/>
+
+    <g>
+      <circle cx="180" cy="80" r="260" fill="url(#glow1)">
+        <animateTransform attributeName="transform" type="translate" values="0,0;20,15;0,0" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1020" cy="540" r="300" fill="url(#glow2)">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-25,-10;0,0" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="90" r="220" fill="url(#glow3)">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-15,20;0,0" dur="8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+<rect x="0" y="0" width="1180" height="610" filter="url(#noiseFilter)"/>
+<g>
+      <circle cx="723" cy="545" r="2" fill="#06B6D4" opacity="0.53">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-17,-26;0,0" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.53;0.16;0.53" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1099" cy="169" r="1.5" fill="#06B6D4" opacity="0.34">
+        <animateTransform attributeName="transform" type="translate" values="0,0;28,-22;0,0" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.34;0.10;0.34" dur="3.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="929" cy="90" r="1.5" fill="#06B6D4" opacity="0.69">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-33,16;0,0" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.69;0.21;0.69" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="155" cy="345" r="2" fill="#06B6D4" opacity="0.42">
+        <animateTransform attributeName="transform" type="translate" values="0,0;19,-33;0,0" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.42;0.13;0.42" dur="4.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="430" cy="112" r="2" fill="#06B6D4" opacity="0.32">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-32,-33;0,0" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.32;0.10;0.32" dur="4.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="481" cy="314" r="3" fill="#06B6D4" opacity="0.42">
+        <animateTransform attributeName="transform" type="translate" values="0,0;33,26;0,0" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.42;0.13;0.42" dur="4.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="428" cy="417" r="2" fill="#06B6D4" opacity="0.59">
+        <animateTransform attributeName="transform" type="translate" values="0,0;31,25;0,0" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.59;0.18;0.59" dur="3.0s" repeatCount="indefinite"/>
+      </circle></g>
+
+    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#0F172A" stroke-opacity="0.08" stroke-width="1.5"/>
+    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#shimmerGrad)" stroke-width="1.5"/>
+    
+
+    <rect x="40" y="40" width="430" height="530" rx="18" fill="#F8FAFC" fill-opacity="0.55" stroke="#0F172A" stroke-opacity="0.06"/>
+    
+
+    <circle cx="66" cy="66" r="6" fill="#FF5F56"/>
+    <circle cx="86" cy="66" r="6" fill="#FFBD2E"/>
+    <circle cx="106" cy="66" r="6" fill="#27C93F"/>
+    <text x="454" y="70" text-anchor="end" font-family="monospace" font-size="11" fill="#475569">ascii://ayush</text>
+    <line x1="56" y1="86" x2="454" y2="86" stroke="#0F172A" stroke-opacity="0.06"/>
+    
+
+    <g clip-path="url(#leftPanelClip)">
+      <g>
+        
+      <text xml:space="preserve" x="255.0" y="108.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;0.055" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="116.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.015;0.070" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="124.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.030;0.085" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="132.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.045;0.100" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="140.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.060;0.115" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="148.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.075;0.130" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="156.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.090;0.145" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="164.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.105;0.160" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="172.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.120;0.175" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="180.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.135;0.190" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="188.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.150;0.205" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="196.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.165;0.220" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="204.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.180;0.235" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="212.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.195;0.250" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="220.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.210;0.265" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="228.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.225;0.280" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="236.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.240;0.295" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="244.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.255;0.310" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="252.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.270;0.325" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="260.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.285;0.340" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.300;0.355" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="276.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                                              .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.315;0.370" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="284.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                                              .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.330;0.385" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="292.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                                              .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.345;0.400" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="300.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                            ..::.            ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.360;0.415" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="308.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                     .:--=+*##%%#+:          ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;0.430" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="316.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                  .-+**##%%%%%%%%%*=:         .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.390;0.445" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="324.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                 -*#####%%%%%%%%%%%#*:       .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.405;0.460" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="332.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                                =####%#%%%%%%%%%%%%%#*:.     .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.420;0.475" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="340.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                               -#%##%%%%%%%%%%@@@%%%%##*=    .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.435;0.490" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="348.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                              .*#%%%%%@%%%%%%%%%@%%%%#%%#-<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.450;0.505" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="356.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">                               +#%%%%@@@@@@%%%@@%%%%%%%%%*.<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.465;0.520" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="364.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">          ................     .**#%@@@%%%%%@@%%#%%@@%%##=.  .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.480;0.535" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="372.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">         :*******************+++*+-+#%%%%@@@%#***##*#%#*-.   .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.495;0.550" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="380.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">        .*#####################**-:--==++++==------=*+++-.   .<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.510;0.565" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="388.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">        -***#****##############==::-=+***+=---=====-::+++-  ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.525;0.580" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="396.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">        =##*********##*********==::-==*#*#+--+##%**+-:=++=. ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.540;0.595" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="404.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">        +#####################*++:...:----:..-==+=-:::=++=: ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.555;0.610" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="412.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">       .*%%%%%%%%%%%%%#########+--:....::.. ..:::::..:+*++- ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.570;0.625" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="420.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">       .#%%%@@@@@@@@%%%%%%%%%%#*=--:::-=-:-::::=-:...-****- ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.585;0.640" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="428.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">       :#%%%@@@@@@@@@@@@@@@%%%%%*---=+=--=++*+==+==--*####= ..<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.600;0.655" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="436.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">       -%%%@@@@@@@@@@@@@@%***#***====++*=======*+++==###*#-<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.615;0.670" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="444.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">       =%%%@@@@@@@@@@@%*+=+#+==#+-+==++========+++==+=+##*=-:..                    :<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.630;0.685" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="452.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">      .*%%%@@@@@@@@%#+--=+#*==**--#**++=========+++**-=*#*+====-:.              ...-<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.645;0.700" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="460.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">  ... .#%%%%@@@@%#+=-:-==+*=--===-*#*##*+++++=+*#*++*--=+=-======--:          .....+<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.660;0.715" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="468.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">   .. .*##%#*##*=---=-:::---:.:+=-+#**#%%%%%%%%%%+++*-:----====+==+=-.      .......+<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.675;0.730" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="476.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">  ... .***%%*+=----====:::::..:==-=+#**###%%##%%*===+-.-----++++==+++=:   ........:*<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.690;0.745" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="484.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">......:***#%#--=+======--::::.:---==+######%%%%##*==+=.:::-==++++++++==:..........-*<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.705;0.760" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="492.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">......-***##=---=++++==+-::::::--=+##*##**##%%##%%%##=-:.:==+++++++*+===:.........=*<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.720;0.775" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <text xml:space="preserve" x="255.0" y="500.0" text-anchor="middle" font-family="'Courier New', monospace" font-size="6.6" letter-spacing="0" fill="url(#asciiGrad)" opacity="0">......-#***+-----=+*+=+*=-:::-=**#%%@%#*****#*##*####=+=:-==+**+++*++===-:........+*<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.735;0.790" dur="5.5s" begin="0s" fill="freeze"/></text>
+      <rect x="249.0" y="506.0" width="9" height="14" fill="#06B6D4" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.42;0.45;0.6;0.65;0.8;0.85;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="4.5s" repeatCount="indefinite"/>
+      </g>
+      <rect x="40" y="40" width="430" height="3" fill="#06B6D4" opacity="0.04">
+        <animate attributeName="y" values="40;570;40" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="255.0" y="548" text-anchor="middle" font-family="monospace" font-size="12" fill="#475569">[ B.Tech CSE - AI &amp; ML | SRM IST ]</text>
+    
+
+    <rect x="500" y="40" width="640" height="530" rx="18" fill="#F8FAFC" fill-opacity="0.55" stroke="#0F172A" stroke-opacity="0.06"/>
+    <circle cx="526" cy="66" r="6" fill="#FF5F56"/>
+    <circle cx="546" cy="66" r="6" fill="#FFBD2E"/>
+    <circle cx="566" cy="66" r="6" fill="#27C93F"/>
+    <text x="1124" y="70" text-anchor="end" font-family="monospace" font-size="11" fill="#475569">ayush@jarvis: ~</text>
+    <line x1="516" y1="86" x2="1124" y2="86" stroke="#0F172A" stroke-opacity="0.06"/>
+    
+
+    <text x="536" y="132" font-size="26" fill="#0F172A">Hi 👋</text>
+    <text x="536" y="174" font-size="34" font-weight="700" fill="url(#accentGrad)">I'm Ayush</text>
+    
+
+    <g clip-path="url(#typeClip0)">
+      <text x="536" y="212" font-family="monospace" font-size="18" fill="#06B6D4">Learning DSA and Python from scratch</text>
+    </g>
+
+    <g clip-path="url(#typeClip1)">
+      <text x="536" y="212" font-family="monospace" font-size="18" fill="#06B6D4">Building JARVIS - a personal AI assistant</text>
+    </g>
+
+    <g clip-path="url(#typeClip2)">
+      <text x="536" y="212" font-family="monospace" font-size="18" fill="#06B6D4">Aspiring ML Engineer | Open to opportunities</text>
+    </g>
+
+    <rect x="536" y="197" width="2" height="18" fill="#06B6D4">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity="0">
+      <text x="536" y="256" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#475569">LOCATION</text>
+      <text x="656" y="256" font-family="monospace" font-size="12.5" fill="#0F172A">SRM IST, Kattankulathur (KTR)</text>
+      <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.4s" dur="0.5s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="536" y="286" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#475569">EDUCATION</text>
+      <text x="656" y="286" font-family="monospace" font-size="12.5" fill="#0F172A">B.Tech CSE - AI &amp; ML, 2nd Year</text>
+      <animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.68s" dur="0.5s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="536" y="316" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#475569">FOCUS</text>
+      <text x="656" y="316" font-family="monospace" font-size="12.5" fill="#0F172A">DSA - Python - Machine Learning</text>
+      <animate attributeName="opacity" values="0;1" begin="0.9600000000000001s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.9600000000000001s" dur="0.5s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="536" y="346" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#475569">PORTFOLIO</text>
+      <text x="656" y="346" font-family="monospace" font-size="12.5" fill="#0F172A">github.com/ayushchaudharyx777-cmyk</text>
+      <animate attributeName="opacity" values="0;1" begin="1.2400000000000002s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="1.2400000000000002s" dur="0.5s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="536" y="376" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#475569">EMAIL</text>
+      <text x="656" y="376" font-family="monospace" font-size="12.5" fill="#0F172A">ayushchaudharyx777@gmail.com</text>
+      <animate attributeName="opacity" values="0;1" begin="1.52s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="1.52s" dur="0.5s" fill="freeze"/>
+    </g>
+<line x1="536" y1="412" x2="1104" y2="412" stroke="#0F172A" stroke-opacity="0.06"/>
+<text x="536" y="438" font-family="monospace" font-size="12" letter-spacing="1" fill="#475569">SKILLS</text>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="536" y="450" width="62" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="567" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">Python</text>
+      <animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="2.6s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="608.0" y="450" width="60" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="638" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">C++</text>
+      <animate attributeName="opacity" values="0;1" begin="2.35s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="2.75s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="678.0" y="450" width="90" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="723" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">JavaScript</text>
+      <animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="2.9s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="778.0" y="450" width="76" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="816" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">HTML/CSS</text>
+      <animate attributeName="opacity" values="0;1" begin="2.6500000000000004s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.0500000000000003s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="864.0" y="450" width="90" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="909" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">TensorFlow</text>
+      <animate attributeName="opacity" values="0;1" begin="2.8000000000000003s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.2s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="964.0" y="450" width="104" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="1016" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">Scikit-learn</text>
+      <animate attributeName="opacity" values="0;1" begin="2.95s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.35s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="536" y="489" width="60" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="566" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">Git</text>
+      <animate attributeName="opacity" values="0;1" begin="3.1s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.5s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="606" y="489" width="60" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="636" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">Linux</text>
+      <animate attributeName="opacity" values="0;1" begin="3.25s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.65s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="676" y="489" width="60" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="706" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">MySQL</text>
+      <animate attributeName="opacity" values="0;1" begin="3.4000000000000004s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.8000000000000003s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0" filter="url(#pillGlow)">
+      <rect x="746" y="489" width="62" height="27" rx="15" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1"/>
+      <text x="777" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#0F172A">Ollama</text>
+      <animate attributeName="opacity" values="0;1" begin="3.55s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.75;1" begin="3.9499999999999997s" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <circle cx="536" cy="544" r="18" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1.3"/>
+      <text x="536" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#0F172A">GH</text>
+      <animate attributeName="opacity" values="0;1" begin="3.4s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="18;19.5;18" begin="3.8s" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <circle cx="590" cy="544" r="18" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1.3"/>
+      <text x="590" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#0F172A">in</text>
+      <animate attributeName="opacity" values="0;1" begin="3.6s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="18;19.5;18" begin="4.0s" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <circle cx="644" cy="544" r="18" fill="#F8FAFC" stroke="url(#accentGrad)" stroke-width="1.3"/>
+      <text x="644" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#0F172A">@</text>
+      <animate attributeName="opacity" values="0;1" begin="3.8s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="18;19.5;18" begin="4.2s" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+</g>
+</svg>
