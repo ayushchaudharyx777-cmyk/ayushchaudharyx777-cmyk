@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushchaudharyx777-cmyk&color=2EAADC&style=for-the-badge" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayushchaudharyx777-cmyk.ayushchaudharyx777-cmyk&left_text=PROFILE%20VIEWS&left_color=555555&right_color=2EAADC" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Internships-2EAADC?style=for-the-badge"/>
 </p>
@@ -139,7 +139,7 @@ A fully custom, Python-powered personal AI assistant inspired by Tony Stark's JA
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&bg_color=000000&color=FFFFFF&line=00C8FF&point=FFFFFF&area=true&area_color=39D353&hide_border=true&custom_title=Ayush%20Chaudhary%27s%20Contribution%20Graph" alt="Contribution Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudharyx777-cmyk&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
